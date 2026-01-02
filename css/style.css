@@ -69,3 +69,20 @@ a{
   margin-top: 20px;
 }
 
+
+/* banner section */
+
+.banner-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.banner-img{
+  
+}
+.image-1{
+  width: 500px;
+  border-radius: 400px;
+  margin-top: 50px;
+}
