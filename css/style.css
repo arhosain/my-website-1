@@ -32,9 +32,14 @@ body {
   padding: 10px 35px;
   font-weight: 600;
   font-size: 20px;
-  border: 1px solid rgb(215, 215, 215);
+  border: 2px solid rgb(215, 215, 215);
   background-color: rgb(255, 132, 0);
   border-radius: 10px;
+}
+.btn-primary:hover{
+  background-color: rgb(26, 26, 26);
+  color: darkorange;
+  border: 2px solid dar;
 }
 .btn-1{
   margin-right: 100px;
@@ -48,6 +53,13 @@ body {
   border: 2px solid darkorange;
   background-color: rgb(25, 25, 25);
   border-radius: 10px;
+}
+.btn-2:hover{
+  background-color: darkorange;
+  color: white;
+  border: 2px solid white;
+
+
 }
 
 nav li a {
